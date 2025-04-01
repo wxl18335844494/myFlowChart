@@ -49,15 +49,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-27" value="整备系统申请入库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" connectable="0" parent="t8SZyLStU0knfUyTRFXL-24">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-27" value="整备系统申请入段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" connectable="0" parent="t8SZyLStU0knfUyTRFXL-24">
           <mxGeometry x="-0.0621" y="-3" relative="1" as="geometry">
             <mxPoint x="11" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-39" value="向现车系统申请出库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-39" value="向现车系统申请出段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="478" y="130" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-49" value="整备系统反馈入库情况 同意/拒绝/变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-49" value="整备系统反馈入段情况 同意/拒绝/变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="430" y="320" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t8SZyLStU0knfUyTRFXL-58" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="t8SZyLStU0knfUyTRFXL-2" target="t8SZyLStU0knfUyTRFXL-3">
@@ -68,7 +68,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-61" value="现车系统反馈出库情况 同意/拒绝/变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-61" value="现车系统反馈出段情况 同意/拒绝/变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="430" y="210" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
