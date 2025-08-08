@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="27.1.4">
   <diagram name="第 1 页" id="pdbkUpA1Ni167gCyzPzv">
-    <mxGraphModel dx="1036" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="t8SZyLStU0knfUyTRFXL-2" value="现车系统" style="rhombus;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-2" value="现车系统" style="rhombus;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="334" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;sketch=1;curveFitting=1;jiggle=2;curved=1;labelBackgroundColor=none;fontSize=14;" edge="1" parent="1">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;sketch=1;curveFitting=1;jiggle=2;curved=1;labelBackgroundColor=none;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="738" y="240" as="sourcePoint" />
             <mxPoint x="372" y="240" as="targetPoint" />
@@ -17,17 +17,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-35" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" connectable="0" parent="t8SZyLStU0knfUyTRFXL-33">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-35" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=0;" parent="t8SZyLStU0knfUyTRFXL-33" vertex="1" connectable="0">
           <mxGeometry x="0.0028" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-36" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" connectable="0" parent="t8SZyLStU0knfUyTRFXL-33">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-36" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=0;" parent="t8SZyLStU0knfUyTRFXL-33" vertex="1" connectable="0">
           <mxGeometry x="0.1108" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-64" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="t8SZyLStU0knfUyTRFXL-3" target="t8SZyLStU0knfUyTRFXL-2">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-64" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="t8SZyLStU0knfUyTRFXL-3" target="t8SZyLStU0knfUyTRFXL-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="719" y="340" />
@@ -35,13 +35,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-3" value="整备系统" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-3" value="整备系统" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="710" y="240" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-4" value="控制系统" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-4" value="控制系统" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="10" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="t8SZyLStU0knfUyTRFXL-2" target="t8SZyLStU0knfUyTRFXL-3">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;endArrow=classic;" parent="1" source="t8SZyLStU0knfUyTRFXL-2" target="t8SZyLStU0knfUyTRFXL-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="374" y="390" />
@@ -49,18 +49,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-27" value="整备系统申请入段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" connectable="0" parent="t8SZyLStU0knfUyTRFXL-24">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-27" value="向&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;整备系统申请入段&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=0;" parent="t8SZyLStU0knfUyTRFXL-24" vertex="1" connectable="0">
           <mxGeometry x="-0.0621" y="-3" relative="1" as="geometry">
             <mxPoint x="11" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-39" value="向现车系统申请出段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-39" value="向现车系统申请出段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="478" y="130" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-49" value="整备系统反馈入段情况 同意/拒绝/变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-49" value="整备系统反馈入段情况 同意/拒绝/变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="430" y="320" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-58" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="t8SZyLStU0knfUyTRFXL-2" target="t8SZyLStU0knfUyTRFXL-3">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-58" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="t8SZyLStU0knfUyTRFXL-2" target="t8SZyLStU0knfUyTRFXL-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="394" y="220" />
@@ -68,7 +68,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8SZyLStU0knfUyTRFXL-61" value="现车系统反馈出段情况 同意/拒绝/变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="t8SZyLStU0knfUyTRFXL-61" value="现车系统反馈出段情况 同意/拒绝/变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="430" y="210" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
